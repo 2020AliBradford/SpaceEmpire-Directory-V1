@@ -8,7 +8,7 @@
 
 ```json
 {
-  "name": "SpaceEmpire-Directory V1",
+  "name": "SpaceEmpire-Directory-V1",
   "version": "1.0.0",
   "purpose": "AI-first map of Space Empire repositories and knowledge objects",
   "audiences": ["AI agents", "automation systems", "human contributors"],
